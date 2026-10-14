@@ -35,3 +35,10 @@ python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 
+## Team Members
+
+- Group DevOps Challenge 1:
+	- Nguyen Thanh An
+	- Tran Vinh Dai
+	- Dao Tuan Bao
+
